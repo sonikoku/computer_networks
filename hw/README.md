@@ -4,18 +4,18 @@
 
 ## Список с ссылками для легкого перемещения по дз.
 
-- [hw01](./hw/hw01/hw1_rpo3-sonya-OSI.md) 5 примеров на разных уровнях модели OSI.
-- [hw02](./hw/hw02/hw2_rpo3-sonya-wireshark.md) Wireshark. Скриншот рабочего Wireshark.
-- [hw03](./hw/hw03/hw3_rpo3-sonya-mac-scheme.md) Схема MAC-адреса и схема соединения компьютеров через коммутатор.
-- [hw04](./hw/hw04/hw4_rpo3-sonya-ipv4.md) IPv4. Распределение 172.168 /24 IP адрес на подсети где 5 зданий с маршрутами и в каждом от 15 до 25 устройств.
-- [hw05](./hw/hw05/hw5_rpo3-sonya-cisco.md) Сisco. Построить сеть в циско с 8 компьютерами 2 коммутаторами и 1 хабом.
-- [hw06](./hw/hw06/hw6_rpo3-sonya-cisco_2.md) Сisco. Блокировка через брандмауэр.
-- [hw07](./hw/hw07/hw7_rpo3-sonya-tasks_ip.md) Решение задач по IP-адресации и маскам подсети.
-- [hw08](./hw/hw08/hw8_rpo3-sonya-cisco_3.md) Сisco. Создание трёх схем.
-- [hw09](./hw/hw09/hw9_rpo3-sonya-RIP_3.md) Сisco. Настройка третьей схемы (из hw08) с RIP.
-- [hw10](./hw/hw10/hw10_rpo3-sonya-DHCP.md) Конспект по презентации протокол DHCP
-- [hw11](./hw/hw11/hw11_rpo3-sonya-NAT_3.md) Сisco. Настройка схемы сети с NAT/PAT.
-- [hw12](./hw/hw12/hw12_rpo3-sonya-dns.md) Сisco. Настройка DNS-сервера.
-- [hw13](./hw/hw13/hw13_rpo3-sonya-tcp_udp.md) Краткая выжимка из трёх презентаций по TCP и UDP.
-- [hw14](./hw/hw14/hw14_rpo3-sonya-tcp_udp.md) Wireshark. Скриншоты: 2 TCP с разными флагами и примером UDP-пакета.
+- [hw01](./hw01/hw1_rpo3-sonya-OSI.md) 5 примеров на разных уровнях модели OSI.
+- [hw02](./hw02/hw2_rpo3-sonya-wireshark.md) Wireshark. Скриншот рабочего Wireshark.
+- [hw03](./hw03/hw3_rpo3-sonya-mac-scheme.md) Схема MAC-адреса и схема соединения компьютеров через коммутатор.
+- [hw04](./hw04/hw4_rpo3-sonya-ipv4.md) IPv4. Распределение 172.168 /24 IP адрес на подсети где 5 зданий с маршрутами и в каждом от 15 до 25 устройств.
+- [hw05](./hw05/hw5_rpo3-sonya-cisco.md) Сisco. Построить сеть в циско с 8 компьютерами 2 коммутаторами и 1 хабом.
+- [hw06](./hw06/hw6_rpo3-sonya-cisco_2.md) Сisco. Блокировка через брандмауэр.
+- [hw07](./hw07/hw7_rpo3-sonya-tasks_ip.md) Решение задач по IP-адресации и маскам подсети.
+- [hw08](./hw08/hw8_rpo3-sonya-cisco_3.md) Сisco. Создание трёх схем.
+- [hw09](./hw09/hw9_rpo3-sonya-RIP_3.md) Сisco. Настройка третьей схемы (из hw08) с RIP.
+- [hw10](./hw10/hw10_rpo3-sonya-DHCP.md) Конспект по презентации протокол DHCP
+- [hw11](./hw11/hw11_rpo3-sonya-NAT_3.md) Сisco. Настройка схемы сети с NAT/PAT.
+- [hw12](./hw12/hw12_rpo3-sonya-dns.md) Сisco. Настройка DNS-сервера.
+- [hw13](./hw13/hw13_rpo3-sonya-tcp_udp.md) Краткая выжимка из трёх презентаций по TCP и UDP.
+- [hw14](./hw14/hw14_rpo3-sonya-tcp_udp.md) Wireshark. Скриншоты: 2 TCP с разными флагами и примером UDP-пакета.
 - [hw15](./hw15_rpo3-sonya-http_https.md) HTTP/HTTPS. Определения терминов, разбор запросов и ответов, составление HTTP-запросов.
